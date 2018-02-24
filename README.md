@@ -1,9 +1,10 @@
 # Certificates
 
 
-
-1) ILETS Score
-2) American Diploma SAT
-3) Bachelor Graduation Certificate
-4) IEEE Recognition Certificate
-5) IEEE Best Design and Fabrication 
+1) American Diploma
+2) GeneralPetroleumCompany
+3) GraduationCertificate
+4) IELTS
+5) IEEE Recognition Certificate
+6) high School Certificate
+7) IEEE best design and fabrication of RC car
